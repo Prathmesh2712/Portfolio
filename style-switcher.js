@@ -9,7 +9,6 @@ window.addEventListener("scroll" , ()=>{
         document.querySelector(".style-switcher").classList.remove("open");
     }
 })
-
 const alternateStyles=document.querySelectorAll(".alternate-style");
 function setActiveStyle(color)
 {
